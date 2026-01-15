@@ -8,7 +8,6 @@ This project uses SQL to analyze key business metrics from an e-commerce dataset
 
 - **Source**: [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 - **Table Used**:
-
     - customers
     - orders
     - order_payments
