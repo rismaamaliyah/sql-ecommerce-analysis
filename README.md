@@ -100,3 +100,7 @@ Revenue is highly concentrated among a small group of high-value customers, rein
 
 - SQL
 - GitHub for version control and documentation
+
+## Dashboard
+
+[Interactive Dashboard](https://public.tableau.com/views/E-CommerceSalesPerformanceCustomerBehaviorDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
